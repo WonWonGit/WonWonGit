@@ -1,16 +1,22 @@
 
 
 <h1 align="center">Hi 👋, I'm Suwon Baek from Korea</h1>
-<h3 align="center">I'm a Fullstack Developer based in Tokyo, Japan.</h3>
+<h3 align="center">I'm a Fullstack Developer based in Fukuoka, Japan.</h3>
 
 
 ## 💫 About Me:
-👷🏼‍♂️ <strong>Working On</strong>: Side project with Spring boot and React <br>
+👷🏼‍♂️ <strong>Working On</strong>: Project with React, Angular, Node, Socket and Azure <br>
 🤝 <strong>I'm looking to collaborate with</strong>:<br>
-📚 <strong>I'm currently focusing on</strong>: Spring boot and test code<br>
+📚 <strong>I'm currently focusing on</strong>: FE frameworks and Clean code ✨ <br>
 👀 <strong>Fun Fact</strong>: I 💜 Coding.
 
 <br />
+
+## Currently 
+JRCS - Employee(FE)
+TeamSinta - Collaborator(FE)
+
+<br /> 
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suwon-baek/)
